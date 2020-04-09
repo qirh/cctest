@@ -1,7 +1,11 @@
-.flex-container {
+.navigation-bar {
 	justify-content: center;
 }
-.flex-element {
+.home {
+	flex: 1;
+	justify-content: space-between;
+}
+.menu {
 	flex: 1;
 	justify-content: space-between;
 }
