@@ -1,14 +1,16 @@
+.flex-container {
+    justify-content: center;
+}
 .flex-element {
     flex: 1;
     justify-content: space-between;
-    padding-top: 30px;
 }
-@media (max-width: 450px) {
+@media (max-width: 815px) {
     .home {
         padding-top: 20px
     }
   }
-  @media (max-width: 600px) {
+  @media (max-width: 1000px) {
     .home {
         padding-top: 10px
     }
